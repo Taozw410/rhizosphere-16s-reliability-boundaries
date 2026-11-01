@@ -39,6 +39,8 @@ Corresponding author: Ziwei Tao, taozw@gxust.edu.cn
 
 The 45 source projects were reprocessed from public FASTQ reads. The repository stores derived feature summaries and analysis inputs that contain no private or controlled-access data.
 
+Versioned release: https://github.com/Taozw410/rhizosphere-16s-reliability-boundaries/releases/tag/v0.1.1
+
 ## Reuse terms
 
 No reuse license has been assigned in this working repository. The authors should choose a code license and a data license before publishing a DOI for the associated article.
