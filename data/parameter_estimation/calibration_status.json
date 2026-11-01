@@ -1,0 +1,66 @@
+{
+  "simulator_family": "template_multinomial_v1",
+  "sample_prior_reads": 1.0,
+  "search_seeds": 1,
+  "final_seeds": 5,
+  "n_pass": 8,
+  "all_pass": true,
+  "statistics": {
+    "prevalence_distribution": {
+      "real_summary": "0.0033557, 0.0075503, 0.027685, 0.099832, 0.2505, 0.38104, 0.66366",
+      "synthetic_mean_summary": "0.003255; 0.0075503; 0.026846; 0.099161; 0.24869; 0.37956; 0.66398",
+      "distance": 0.0077037037037036874,
+      "tolerance": 0.12,
+      "pass": true
+    },
+    "rank_abundance": {
+      "real_summary": "-6.7251, -6.0119, -5.3552, -4.4975, -3.6995, -3.0402, -2.1407",
+      "synthetic_mean_summary": "-6.7983; -6.0191; -5.3528; -4.498; -3.6989; -3.0401; -2.1409",
+      "distance": 0.008000000000000004,
+      "tolerance": 0.12,
+      "pass": true
+    },
+    "sample_depth": {
+      "real_summary": "8.4554, 9.3763, 9.9719, 10.354, 10.691",
+      "synthetic_mean_summary": "8.4554; 9.3763; 9.9719; 10.354; 10.691",
+      "distance": 0.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    "within_between_variance_ratio": {
+      "real_summary": "0.867451",
+      "synthetic_mean_summary": "0.868136 [0.865662, 0.873351]",
+      "distance": 0.0028668442390851327,
+      "tolerance": 0.3,
+      "pass": true
+    },
+    "bray_curtis_distribution": {
+      "real_summary": "0.52624, 0.6734, 0.77711, 0.86789, 0.96008",
+      "synthetic_mean_summary": "0.52749; 0.67424; 0.77765; 0.86824; 0.96012",
+      "distance": 0.0020601941856992325,
+      "tolerance": 0.1,
+      "pass": true
+    },
+    "aitchison_distribution": {
+      "real_summary": "46.559, 58.987, 66.94, 73.788, 82.13",
+      "synthetic_mean_summary": "46.461; 58.87; 66.818; 73.655; 82.007",
+      "distance": 0.005113575530122416,
+      "tolerance": 0.1,
+      "pass": true
+    },
+    "zero_fraction": {
+      "real_summary": "0.80388, 0.88296, 0.92395, 0.95407, 0.98617",
+      "synthetic_mean_summary": "0.80566; 0.88383; 0.9239; 0.95383; 0.98577",
+      "distance": 0.008892617449664427,
+      "tolerance": 0.08,
+      "pass": true
+    },
+    "network_topology": {
+      "real_summary": "0.30961, 0.44136, 0.65357",
+      "synthetic_mean_summary": "0.29892; 0.43542; 0.65192",
+      "distance": 0.12727272727272726,
+      "tolerance": 0.2,
+      "pass": true
+    }
+  }
+}

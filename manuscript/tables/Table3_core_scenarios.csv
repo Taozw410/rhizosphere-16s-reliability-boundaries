@@ -1,0 +1,21 @@
+Scenario,Method,Datasets,Mean F1,Mean recall,Mean precision,Mean false-core rate,Mean Brier score
+Null,Sample prevalence,20,—,—,—,0.000,0.287
+Null,Project-balanced prevalence,20,—,—,—,0.000,0.140
+Null,Beta-binomial EB,20,—,—,—,0.000,0.286
+Null,Hierarchical occupancy,20,—,—,—,0.000,0.345
+Balanced core,Sample prevalence,20,0.942,0.893,1.000,0.000,0.219
+Balanced core,Project-balanced prevalence,20,0.990,0.980,1.000,0.000,0.103
+Balanced core,Beta-binomial EB,20,0.885,0.797,1.000,0.000,0.219
+Balanced core,Hierarchical occupancy,20,0.975,0.960,0.992,0.002,0.255
+Low-abundance core,Sample prevalence,20,0.881,0.792,1.000,0.000,0.231
+Low-abundance core,Project-balanced prevalence,20,0.987,0.975,1.000,0.000,0.112
+Low-abundance core,Beta-binomial EB,20,0.780,0.650,1.000,0.000,0.232
+Low-abundance core,Hierarchical occupancy,20,0.926,0.872,0.994,0.001,0.281
+Project-shift core,Sample prevalence,20,0.943,0.953,0.938,0.012,0.229
+Project-shift core,Project-balanced prevalence,20,0.964,0.994,0.937,0.012,0.113
+Project-shift core,Beta-binomial EB,20,0.919,0.908,0.938,0.011,0.229
+Project-shift core,Hierarchical occupancy,20,0.958,0.990,0.931,0.014,0.267
+Depth-confounded core,Sample prevalence,20,0.450,0.564,0.396,0.054,0.315
+Depth-confounded core,Project-balanced prevalence,20,0.497,0.752,0.387,0.076,0.194
+Depth-confounded core,Beta-binomial EB,20,0.423,0.375,0.413,0.038,0.314
+Depth-confounded core,Hierarchical occupancy,20,0.472,0.669,0.380,0.071,0.353

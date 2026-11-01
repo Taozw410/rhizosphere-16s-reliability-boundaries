@@ -1,0 +1,10 @@
+stage,runs,method,seconds_per_run,cpu_hours,wall_hours_2_workers
+primary,50,aldex2,1.82,0.0253,0.0126
+primary,50,ancombc2,598.67,8.3149,4.1574
+primary,50,linda,10.32,0.1433,0.0717
+primary,50,maaslin2,10.52,0.1461,0.0731
+extension,50,aldex2,1.82,0.0253,0.0126
+extension,50,ancombc2,598.67,8.3149,4.1574
+extension,50,linda,10.32,0.1433,0.0717
+extension,50,maaslin2,10.52,0.1461,0.0731
+

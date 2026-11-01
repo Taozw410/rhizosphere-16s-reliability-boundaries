@@ -1,0 +1,5 @@
+check,pass_fraction
+No-effect DA,1.0
+Core structural,1.0
+Three-panel structure,0.9583333333333334
+Held-out structure,0.45416666666666666

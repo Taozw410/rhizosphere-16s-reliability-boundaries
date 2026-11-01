@@ -1,0 +1,5 @@
+method,result_file,status,elapsed_sec,method_version,n_features_output,n_reject,error
+aldex2,aldex2.csv,ok,1.8226,1.40.0,120,0,
+ancombc2,ancombc2.csv,ok,598.6724,2.12.1,120,0,
+linda,linda.csv,failed,0.0367,1.4,0,0,missing value where TRUE/FALSE needed
+maaslin2,maaslin2.csv,ok,10.5227,1.26.0,120,6,

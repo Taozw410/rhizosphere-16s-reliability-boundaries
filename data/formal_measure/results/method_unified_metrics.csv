@@ -1,0 +1,4 @@
+method,status,n_features,n_target,n_reject_bh,tp_bh,fp_bh,fn_bh,fdp_bh,power_bh,precision_bh,f1_bh,direction_accuracy_bh,n_reject_by,tp_by,fp_by,fdp_by
+aldex2,ok,120,20,0,0,0,20,,0.0,,,,0,0,0,
+ancombc2,ok,120,20,0,0,0,20,,0.0,,,,0,0,0,
+maaslin2,ok,120,20,6,6,0,14,0.0,0.3,1.0,0.4615384615384615,1.0,4,4,0,0.0

@@ -1,0 +1,30 @@
+{
+  "title": "Reproducibility, synthetic accuracy and cross-project transportability identify distinct reliability boundaries in multi-study rhizosphere 16S analyses",
+  "description": "Code, calibration parameters, frozen summary outputs, figure source data, project manifests and submission materials for a multi-study rhizosphere 16S reliability benchmark.",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-01",
+  "creators": [
+    {
+      "name": "Tao, Ziwei",
+      "affiliation": "Guangxi University of Science and Technology",
+      "orcid": "0000-0003-0310-748X"
+    },
+    {
+      "name": "Xie, Jian",
+      "affiliation": "Guangxi University of Science and Technology"
+    },
+    {
+      "name": "Yang, Fan",
+      "affiliation": "Zhejiang University of Water Resources and Electric Power"
+    }
+  ],
+  "keywords": [
+    "rhizosphere microbiome",
+    "16S rRNA",
+    "reproducibility",
+    "benchmark",
+    "transportability",
+    "differential abundance"
+  ],
+  "access_right": "open"
+}

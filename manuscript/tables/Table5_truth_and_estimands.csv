@@ -1,0 +1,5 @@
+module,ground_truth,method_target,primary_metrics,evaluation_boundary
+Differential abundance,Target status and expected signed log2 effect after compositional renormalization,"Feature-level condition contrast, with project blocking or random effects where supported","FDP, power, F1, direction accuracy",Absolute abundance is unobserved; closure effects are retained in the truth file
+Core identification,Latent detection probability >=0.90 in >=80% of projects,"Observed prevalence, project-balanced prevalence, or model-estimated occupancy","False-core rate, recall, F1, Brier score",Core is definition-dependent; detection failure is not absence
+Network inference,Non-zero off-diagonal entries of a Gaussian precision matrix,Marginal CLR association or conditional partial association,"Edge AUPRC, AUROC, hub-degree Spearman",Statistical edges are not ecological interactions
+Sequence classification,SILVA genus label and held-out unseen-genus status,Supervised sequence classification and confidence-based rejection,"Accuracy, macro F1, unseen-genus rejection, known-taxon retention",Complementary reference-set benchmark; not the same eight-summary simulation

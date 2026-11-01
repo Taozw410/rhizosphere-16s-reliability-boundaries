@@ -1,0 +1,9 @@
+Generator,Method,Datasets,Mean FDP,Mean power,Mean F1
+Generator 1,ALDEx2,20,0.000,0.150,0.261
+Generator 1,ANCOM-BC2,20,0.008,0.878,0.930
+Generator 1,LinDA,20,0.353,0.220,0.326
+Generator 1,MaAsLin2,20,0.048,0.275,0.423
+Generator 2,ALDEx2,5,0.000,0.150,0.261
+Generator 2,ANCOM-BC2,5,0.000,0.840,0.913
+Generator 2,LinDA,5,0.257,0.350,0.474
+Generator 2,MaAsLin2,5,0.047,0.400,0.563

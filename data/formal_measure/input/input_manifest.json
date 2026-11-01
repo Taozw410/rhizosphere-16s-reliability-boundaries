@@ -1,0 +1,13 @@
+{
+  "scenario": "sparse20_fc1_41",
+  "counts_npz": "D:\\CodexWork\\mic-re\\\u8bba\u65874-\u591a\u7814\u7a76\u4eff\u771f\\outputs\\formal_grid\\data\\sparse20_fc1_41\\seed_4000\\counts.npz",
+  "design": "D:\\CodexWork\\mic-re\\\u8bba\u65874-\u591a\u7814\u7a76\u4eff\u771f\\outputs\\formal_grid\\data\\sparse20_fc1_41\\seed_4000\\metadata.csv",
+  "truth": "D:\\CodexWork\\mic-re\\\u8bba\u65874-\u591a\u7814\u7a76\u4eff\u771f\\outputs\\formal_grid\\data\\sparse20_fc1_41\\seed_4000\\truth.csv",
+  "projects": 15,
+  "samples": 388,
+  "features": 120,
+  "samples_dropped_zero_depth": 2,
+  "min_prevalence": 0.0,
+  "max_features": 0,
+  "target_features_retained": 20
+}

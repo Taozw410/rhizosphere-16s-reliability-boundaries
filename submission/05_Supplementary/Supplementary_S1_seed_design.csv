@@ -1,0 +1,8 @@
+Benchmark,Design,Seed block,Replicates,Analysis units,Notes
+"Differential abundance, generator 1",5 scenarios,4000–4019,20 per scenario,100,Primary 4000–4009; extension 4010–4019
+"Differential abundance, generator 2",5 scenarios,7200–7204,5 per scenario,25,Correlated template perturbation
+Core and occupancy,5 scenarios,6200–6219,20 per scenario,100,Primary and extension seed blocks
+Network,"Null, sparse, dense, project-shift",5000–5004; 5100–5104,5 calibration; 5 validation,40,Disjoint calibration and validation blocks
+Taxonomy classification,Closed set and unseen genus,6100–6104,5 split seeds,5,Each seed resamples genus holdout and sequence assignment
+Project-panel validation,3 disjoint panels,7300–7302,3,18,Two generators; all 45 projects represented
+Repeated project holdout,10 three-fold partitions,8100–8109,30 held-out panels,30,Five predictive draws per fold in the completed run

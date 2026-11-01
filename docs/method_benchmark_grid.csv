@@ -1,0 +1,8 @@
+method_id,method,role,project_handling,primary_adjustment,status
+aldex2,ALDEx2,compositional Monte Carlo,paired/project-blocked,BH,smoke_passed
+ancombc2,ANCOM-BC2,compositional log-linear,project random effect,BH,smoke_passed
+linda,LinDA,linear CLR model,fixed/mixed sensitivity,BH,smoke_passed
+maaslin2,MaAsLin2,multivariable linear,project random effect,BH,smoke_passed
+clr_mixed,CLR mixed model,transparent baseline,project random intercept,BH,planned
+clr_wilcoxon,CLR Wilcoxon,diagnostic baseline,project-stratified where possible,BH,planned
+

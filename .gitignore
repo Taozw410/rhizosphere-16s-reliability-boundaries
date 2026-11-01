@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.log
+*.pid
+.Rhistory
+.DS_Store
+Thumbs.db
+*.tiff
+*.tif

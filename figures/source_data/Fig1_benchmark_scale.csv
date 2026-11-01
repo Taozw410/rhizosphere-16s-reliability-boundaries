@@ -1,0 +1,6 @@
+benchmark,datasets
+DA generator 1,100
+DA generator 2,25
+Core/occupancy,100
+Network,40
+Classification seeds,5

@@ -1,0 +1,9 @@
+statistic,distance_without_unassigned,tolerance,pass
+prevalence_distribution,0.007411067193675888,0.12,True
+rank_abundance,0.007905138339920948,0.12,True
+sample_depth,0.004194630872483229,0.05,True
+within_between_variance_ratio,0.005626475739433934,0.3,True
+bray_curtis_distribution,0.007811663539183722,0.1,True
+aitchison_distribution,0.005199792628156286,0.1,True
+zero_fraction,0.009228187919463084,0.08,True
+network_topology,0.11363636363636365,0.2,True

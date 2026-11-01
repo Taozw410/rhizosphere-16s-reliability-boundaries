@@ -1,0 +1,10 @@
+Domain,Method,Primary metric 1,Primary metric 2,External metric 1,External metric 2
+Network,CLR Spearman,0.088,0.065,0.132,0.271
+Network,CLR Pearson,0.072,-0.007,0.136,0.239
+Network,SparCC-like,0.065,0.058,0.188,0.617
+Network,Graphical lasso,0.069,0.004,0.085,0.431
+Classification,k-mer KNN,0.870,0.847,0.295,0.950
+Classification,Multinomial NB,0.855,0.829,0.490,0.950
+Classification,Linear SGD,0.915,0.905,0.455,0.950
+Classification,CNN,0.090,0.030,0.085,0.950
+Classification,k-mer Transformer,0.075,0.031,0.060,0.950

@@ -1,0 +1,41 @@
+Generator,Scenario,Method,Datasets,Mean FDP,Mean power,Mean F1
+Generator 1,"Dense, 40 targets, absolute log2FC 0.50",ALDEx2,20,0.000,0.009,0.049
+Generator 1,"Dense, 40 targets, absolute log2FC 0.50",ANCOM-BC2,20,0.000,0.136,0.238
+Generator 1,"Dense, 40 targets, absolute log2FC 0.50",LinDA,20,0.000,0.008,0.049
+Generator 1,"Dense, 40 targets, absolute log2FC 0.50",MaAsLin2,20,0.000,0.018,0.049
+Generator 1,Null,ALDEx2,20,—,—,—
+Generator 1,Null,ANCOM-BC2,20,—,—,—
+Generator 1,Null,LinDA,20,—,—,—
+Generator 1,Null,MaAsLin2,20,—,—,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.25",ALDEx2,20,0.000,0.008,0.095
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.25",ANCOM-BC2,20,0.000,0.045,0.100
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.25",LinDA,20,—,0.000,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.25",MaAsLin2,20,—,0.000,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.50",ALDEx2,20,—,0.000,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.50",ANCOM-BC2,20,0.000,0.140,0.270
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.50",LinDA,20,—,0.000,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 0.50",MaAsLin2,20,—,0.000,—
+Generator 1,"Sparse, 20 targets, absolute log2FC 1.00",ALDEx2,20,0.000,0.150,0.261
+Generator 1,"Sparse, 20 targets, absolute log2FC 1.00",ANCOM-BC2,20,0.008,0.878,0.930
+Generator 1,"Sparse, 20 targets, absolute log2FC 1.00",LinDA,20,0.353,0.220,0.326
+Generator 1,"Sparse, 20 targets, absolute log2FC 1.00",MaAsLin2,20,0.048,0.275,0.423
+Generator 2,"Dense, 40 targets, absolute log2FC 0.50",ALDEx2,5,—,0.000,—
+Generator 2,"Dense, 40 targets, absolute log2FC 0.50",ANCOM-BC2,5,0.000,0.220,0.360
+Generator 2,"Dense, 40 targets, absolute log2FC 0.50",LinDA,5,—,0.000,—
+Generator 2,"Dense, 40 targets, absolute log2FC 0.50",MaAsLin2,5,—,0.000,—
+Generator 2,Null,ALDEx2,5,—,—,—
+Generator 2,Null,ANCOM-BC2,5,—,—,—
+Generator 2,Null,LinDA,5,—,—,—
+Generator 2,Null,MaAsLin2,5,—,—,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.25",ALDEx2,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.25",ANCOM-BC2,5,0.000,0.020,0.095
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.25",LinDA,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.25",MaAsLin2,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.50",ALDEx2,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.50",ANCOM-BC2,5,0.000,0.080,0.176
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.50",LinDA,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 0.50",MaAsLin2,5,—,0.000,—
+Generator 2,"Sparse, 20 targets, absolute log2FC 1.00",ALDEx2,5,0.000,0.150,0.261
+Generator 2,"Sparse, 20 targets, absolute log2FC 1.00",ANCOM-BC2,5,0.000,0.840,0.913
+Generator 2,"Sparse, 20 targets, absolute log2FC 1.00",LinDA,5,0.257,0.350,0.474
+Generator 2,"Sparse, 20 targets, absolute log2FC 1.00",MaAsLin2,5,0.047,0.400,0.563
