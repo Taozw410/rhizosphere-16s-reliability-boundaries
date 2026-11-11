@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Fimbriimonadaceae,True,1.0,0.6823506817930107
+sparse20_fc2,f__JG30-KF-CM45,True,-1.0,0.0
+sparse20_fc2,f__Longimicrobiaceae,True,1.0,0.0
+sparse20_fc2,f__Micromonosporaceae,True,-1.0,-2.729083482885432
+sparse20_fc2,f__Roseiflexaceae,True,1.0,0.47505623583753076
+sparse20_fc2,f__Saprospiraceae,True,-1.0,-1.291146267863706
+sparse20_fc2,g__Altererythrobacter,True,1.0,0.15327902317720077
+sparse20_fc2,g__Aquicella,True,-1.0,-1.2548835496486905
+sparse20_fc2,g__Asticcacaulis,True,1.0,0.0
+sparse20_fc2,g__Bradyrhizobium,True,-1.0,-1.0630342664238455
+sparse20_fc2,g__Candidatus Koribacter,True,1.0,0.7623677450189505
+sparse20_fc2,g__Devosia,True,-1.0,-1.3432148324009527
+sparse20_fc2,g__Dongia,True,1.0,0.6489047254836781
+sparse20_fc2,g__Ellin6067,True,-1.0,-0.9767231404677396
+sparse20_fc2,g__Gemmatimonas,True,1.0,1.2705847824724126
+sparse20_fc2,g__Hyphomicrobium,True,-1.0,-1.0897217598312234
+sparse20_fc2,g__Microvirga,True,1.0,0.8795970248026128
+sparse20_fc2,g__RB41,True,-1.0,-1.142922916175875
+sparse20_fc2,g__Sphingomonas,True,1.0,0.7414223241785258
+sparse20_fc2,g__Tumebacillus,True,-1.0,-1.3607653721327013

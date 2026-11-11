@@ -1,0 +1,20 @@
+{
+  "projects": [
+    "PRJDB13616",
+    "PRJEB104640",
+    "PRJEB76879",
+    "PRJNA1044052",
+    "PRJNA1062967",
+    "PRJNA1095845"
+  ],
+  "n_projects": 6,
+  "n_samples": 426,
+  "crops": {
+    "maize": 2,
+    "rice": 2,
+    "wheat": 2
+  },
+  "development_overlap": [],
+  "panel_features": 120,
+  "datasets": 12
+}

@@ -1,0 +1,14 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Gemmatimonadaceae,True,1.0,1.0351221656761982
+sparse20_family,f__Comamonadaceae,True,-1.0,-1.0671702659030218
+sparse20_family,f__Methyloligellaceae,True,1.0,0.8259917213862938
+sparse20_family,f__WD2101 soil group,True,-1.0,-0.7537229808173004
+sparse20_family,f__Anaerolineaceae,True,1.0,0.9399554726737863
+sparse20_family,f__Planococcaceae,True,-1.0,-1.2431708174088643
+sparse20_family,f__Intrasporangiaceae,True,1.0,1.166796170198018
+sparse20_family,f__Isosphaeraceae,True,-1.0,-1.0809947835560374
+sparse20_family,f__Bacteroidetes vadinHA17,True,1.0,0.8934670744871602
+sparse20_family,f__Micrococcaceae,True,-1.0,-0.9792027839135609
+sparse20_family,f__BSV40,True,1.0,0.7968251197506748
+sparse20_family,f__Hungateiclostridiaceae,True,-1.0,-1.3042338956555097
+sparse20_family,f__Hydrogenedensaceae,True,1.0,1.1684638376120944

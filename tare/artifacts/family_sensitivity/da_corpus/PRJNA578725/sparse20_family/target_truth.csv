@@ -1,0 +1,19 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Gemmatimonadaceae,True,1.0,0.7234909317677607
+sparse20_family,f__Xanthobacteraceae,True,-1.0,-1.2914430581598317
+sparse20_family,f__Chitinophagaceae,True,1.0,0.809802026915608
+sparse20_family,f__env.OPS 17,True,-1.0,-1.3446532394807624
+sparse20_family,f__Pedosphaeraceae,True,1.0,0.802222575186171
+sparse20_family,f__Micropepsaceae,True,-1.0,-1.2239763154424226
+sparse20_family,f__WD2101 soil group,True,1.0,0.6910756476832363
+sparse20_family,f__Sphingomonadaceae,True,-1.0,-1.2586794690718708
+sparse20_family,f__Fimbriimonadaceae,True,1.0,0.6354069959862955
+sparse20_family,f__Oxalobacteraceae,True,-1.0,-1.3849423012976456
+sparse20_family,f__Rhizobiaceae,True,1.0,0.6715080596486382
+sparse20_family,f__LWQ8,True,-1.0,-1.1672880236084866
+sparse20_family,f__Longimicrobiaceae,True,1.0,0.6844942980573678
+sparse20_family,f__Verrucomicrobiaceae,True,-1.0,-1.3870137140028898
+sparse20_family,f__Solirubrobacteraceae,True,1.0,0.7982961573997226
+sparse20_family,f__Opitutaceae,True,-1.0,-1.3149771040689706
+sparse20_family,f__Enterobacteriaceae,True,1.0,0.7046297600301556
+sparse20_family,f__Paenibacillaceae,True,-1.0,-1.4891871391290437

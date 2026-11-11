@@ -1,0 +1,5 @@
+project,method_id,method,rejections,fdp,f1,tare_probability_mean,tare_lower_mean,decisions_across_10_partitions,rejected_features
+PRJNA554261,aldex2,ALDEx2,0,0.0,0.0,0.0708146006084934,0.01936381550201843,DENY,
+PRJNA554261,ancombc2,ANCOM-BC2,16,0.1875,0.7222222222222223,0.12003402740582189,0.06000056096873859,DENY,f__Micropepsaceae;f__Rhodocyclaceae;f__Xanthomonadaceae;g__Aquicella;g__Bdellovibrio;g__Candidatus Solibacter;g__Flavobacterium;g__Haliangium;g__Iamia;g__Luteolibacter;g__Microvirga;g__Nitrospira;g__Nordella;g__Opitutus;g__Pirellula;g__Pseudomonas
+PRJNA554261,linda,LinDA,0,0.0,0.0,0.0719178512841034,0.08343393586015568,CONDITIONAL;DENY,
+PRJNA554261,maaslin2,MaAsLin2,3,0.0,0.2608695652173913,0.14821487732914232,0.0942536281029348,CONDITIONAL;DENY,g__Haliangium;g__Microvirga;g__Opitutus

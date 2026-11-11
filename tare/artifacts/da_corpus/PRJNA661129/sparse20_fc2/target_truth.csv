@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A21b,True,1.0,1.227689177793988
+sparse20_fc2,f__Anaerolineaceae,True,-1.0,0.0
+sparse20_fc2,f__Caulobacteraceae,True,1.0,1.1448088220705634
+sparse20_fc2,f__Roseiflexaceae,True,-1.0,0.0
+sparse20_fc2,f__Saprospiraceae,True,1.0,0.7588027822127831
+sparse20_fc2,g__Altererythrobacter,True,-1.0,-0.4284071418965752
+sparse20_fc2,g__Brevundimonas,True,1.0,1.8721882131132428
+sparse20_fc2,g__Bryobacter,True,-1.0,-1.2619532945755265
+sparse20_fc2,g__Chthoniobacter,True,1.0,0.0
+sparse20_fc2,g__Dongia,True,-1.0,-1.5838903422401844
+sparse20_fc2,g__Hyphomicrobium,True,1.0,14.273647226575578
+sparse20_fc2,g__Jatrophihabitans,True,-1.0,-0.5583547742674091
+sparse20_fc2,g__MND1,True,1.0,0.8596814316017681
+sparse20_fc2,g__Marmoricola,True,-1.0,-0.6759848375165723
+sparse20_fc2,g__Microvirga,True,1.0,0.0
+sparse20_fc2,g__Nordella,True,-1.0,-1.7591040756875935
+sparse20_fc2,g__Novosphingobium,True,1.0,0.6426148014613745
+sparse20_fc2,g__Sphingomonas,True,-1.0,-1.0387466988353695
+sparse20_fc2,g__Streptomyces,True,1.0,0.1112743102022087
+sparse20_fc2,g__Subgroup 10,True,-1.0,-0.9012526975000799

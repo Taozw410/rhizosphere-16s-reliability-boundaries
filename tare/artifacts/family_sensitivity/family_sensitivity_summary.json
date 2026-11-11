@@ -1,0 +1,15 @@
+{
+  "mixed_f1_order": [
+    "ancombc2",
+    "maaslin2",
+    "linda",
+    "aldex2"
+  ],
+  "family_f1_order": [
+    "linda",
+    "maaslin2",
+    "ancombc2",
+    "aldex2"
+  ],
+  "method_order_changed": true
+}

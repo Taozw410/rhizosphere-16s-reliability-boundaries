@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Acetobacteraceae,True,1.0,-12.308070629496294
+sparse20_fc2,f__BIrii41,True,-1.0,-2.3046954027435294
+sparse20_fc2,f__Diplorickettsiaceae,True,1.0,0.11189510494122691
+sparse20_fc2,f__Gemmataceae,True,-1.0,0.0
+sparse20_fc2,f__Methyloligellaceae,True,1.0,1.1509046596242059
+sparse20_fc2,f__Myxococcaceae,True,-1.0,-1.737604570198996
+sparse20_fc2,f__Vicinamibacteraceae,True,1.0,0.9099803029004621
+sparse20_fc2,g__Bdellovibrio,True,-1.0,-1.3928735291200047
+sparse20_fc2,g__Caulobacter,True,1.0,0.0
+sparse20_fc2,g__Chthoniobacter,True,-1.0,-1.4479542532973673
+sparse20_fc2,g__Conexibacter,True,1.0,-11.828132138784113
+sparse20_fc2,g__Ellin6067,True,-1.0,-2.180678463861119
+sparse20_fc2,g__Gemmatimonas,True,1.0,-1.111768098665116
+sparse20_fc2,g__Massilia,True,-1.0,-1.4087174793772723
+sparse20_fc2,g__Nordella,True,1.0,0.3506155172967348
+sparse20_fc2,g__Novosphingobium,True,-1.0,-0.6505175279007633
+sparse20_fc2,g__Pseudarthrobacter,True,1.0,1.4336297246058505
+sparse20_fc2,g__Rhodanobacter,True,-1.0,-0.1547408987897957
+sparse20_fc2,g__Sphingomonas,True,1.0,0.7295577735351682
+sparse20_fc2,g__Subgroup 10,True,-1.0,-2.249257995636588

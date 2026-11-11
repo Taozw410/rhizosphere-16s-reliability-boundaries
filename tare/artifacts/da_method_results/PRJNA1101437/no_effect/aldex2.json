@@ -1,0 +1,19 @@
+{
+  "method": "aldex2",
+  "method_version": "1.40.0",
+  "scenario": "no_effect",
+  "seed": 18000,
+  "status": "ok",
+  "elapsed_sec": 13.9419,
+  "n_samples": 27,
+  "n_features_input": 120,
+  "n_features_output": 103,
+  "n_reject": 0,
+  "method_args": {
+    "mc.samples": 128,
+    "denom": "all",
+    "paired.test": false,
+    "level": "sample"
+  },
+  "error": ""
+}

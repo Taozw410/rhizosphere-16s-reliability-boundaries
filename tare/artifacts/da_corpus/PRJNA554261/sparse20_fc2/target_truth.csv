@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Micropepsaceae,True,1.0,0.6943988413781609
+sparse20_fc2,f__Rhodocyclaceae,True,-1.0,-1.2845336305777333
+sparse20_fc2,g__ADurb.Bin063-1,True,1.0,-0.061511277484964495
+sparse20_fc2,g__Anaeromyxobacter,True,-1.0,-0.9664867531597978
+sparse20_fc2,g__Aquicella,True,1.0,1.1736252302699033
+sparse20_fc2,g__Bacillus,True,-1.0,-1.1055400517713112
+sparse20_fc2,g__Bdellovibrio,True,1.0,0.5622444133370291
+sparse20_fc2,g__Candidatus Koribacter,True,-1.0,0.0
+sparse20_fc2,g__Flavobacterium,True,1.0,0.4191776181114298
+sparse20_fc2,g__Haliangium,True,-1.0,-1.141629475903362
+sparse20_fc2,g__Jatrophihabitans,True,1.0,0.0
+sparse20_fc2,g__Kribbella,True,-1.0,-15.944688830351781
+sparse20_fc2,g__Luteolibacter,True,1.0,0.39149598888358017
+sparse20_fc2,g__Microvirga,True,-1.0,-1.2260746823143087
+sparse20_fc2,g__Nitrospira,True,1.0,1.0266281730024878
+sparse20_fc2,g__Nordella,True,-1.0,-0.6715048653263305
+sparse20_fc2,g__Opitutus,True,1.0,1.0332277438558584
+sparse20_fc2,g__Pirellula,True,-1.0,-1.326352292893014
+sparse20_fc2,g__Pseudomonas,True,1.0,0.6329898671122359
+sparse20_fc2,g__RB41,True,-1.0,-1.3079059418000085

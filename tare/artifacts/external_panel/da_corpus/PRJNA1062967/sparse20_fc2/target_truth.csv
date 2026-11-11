@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A4b,True,1.0,0.5947290127966681
+sparse20_fc2,f__Blastocatellaceae,True,-1.0,-1.430741527429631
+sparse20_fc2,f__Caldilineaceae,True,1.0,0.7618418340929896
+sparse20_fc2,f__Pedosphaeraceae,True,-1.0,-1.764697409393298
+sparse20_fc2,f__Sphingomonadaceae,True,1.0,1.4931980232113673
+sparse20_fc2,f__Steroidobacteraceae,True,-1.0,-1.2779043958121774
+sparse20_fc2,f__TRA3-20,True,1.0,-0.5173453786521357
+sparse20_fc2,f__WD2101 soil group,True,-1.0,-0.6964864484459244
+sparse20_fc2,g__ADurb.Bin063-1,True,1.0,-2.6742149637980988
+sparse20_fc2,g__Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium,True,-1.0,-3.2627127619565015
+sparse20_fc2,g__Bryobacter,True,1.0,1.0409426061463785
+sparse20_fc2,g__Candidatus Koribacter,True,-1.0,-0.3401983354114584
+sparse20_fc2,g__Candidatus Udaeobacter,True,1.0,0.7275049233260865
+sparse20_fc2,g__Massilia,True,-1.0,-1.9407025332921615
+sparse20_fc2,g__Pseudarthrobacter,True,1.0,-0.17623347102137157
+sparse20_fc2,g__Pseudolabrys,True,-1.0,-4.648358695825114
+sparse20_fc2,g__Sphingobium,True,1.0,-2.5919895017359953
+sparse20_fc2,g__Streptomyces,True,-1.0,-1.9003770351900735
+sparse20_fc2,g__Subgroup 10,True,1.0,0.3866712101266128
+sparse20_fc2,g__TM7a,True,-1.0,-3.66675132029717

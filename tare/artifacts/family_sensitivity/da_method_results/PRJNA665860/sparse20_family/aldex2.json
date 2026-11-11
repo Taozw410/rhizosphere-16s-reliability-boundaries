@@ -1,0 +1,19 @@
+{
+  "method": "aldex2",
+  "method_version": "1.40.0",
+  "scenario": "sparse20_family",
+  "seed": 32034,
+  "status": "ok",
+  "elapsed_sec": 3.194,
+  "n_samples": 22,
+  "n_features_input": 120,
+  "n_features_output": 72,
+  "n_reject": 3,
+  "method_args": {
+    "mc.samples": 128,
+    "denom": "all",
+    "paired.test": false,
+    "level": "sample"
+  },
+  "error": ""
+}

@@ -1,0 +1,24 @@
+{
+  "method": "ancombc2",
+  "method_version": "2.12.1",
+  "scenario": "no_effect",
+  "seed": 49000,
+  "status": "ok",
+  "elapsed_sec": 127.6405,
+  "n_samples": 30,
+  "n_features_input": 120,
+  "n_features_output": 118,
+  "n_reject": 0,
+  "method_args": {
+    "fix_formula": "condition",
+    "p_adj_method": "BH",
+    "prv_cut": 0.1,
+    "lib_cut": 0,
+    "pseudo_sens": true,
+    "struc_zero": false,
+    "global": false,
+    "pairwise": false,
+    "n_cl": 1
+  },
+  "error": ""
+}

@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Acetobacteraceae,True,1.0,0.60890995097776
+sparse20_family,f__Sphingomonadaceae,True,-1.0,-1.034339918471164
+sparse20_family,f__Micromonosporaceae,True,1.0,0.5327068204295029
+sparse20_family,f__Caulobacteraceae,True,-1.0,-1.3008267868695313
+sparse20_family,f__Caldilineaceae,True,1.0,1.0110793598692398
+sparse20_family,f__Xanthomonadaceae,True,-1.0,-0.7626932814445839
+sparse20_family,f__NS11-12 marine group,True,1.0,0.4450400904906594
+sparse20_family,f__Longimicrobiaceae,True,-1.0,-1.0350687496944417
+sparse20_family,f__Rhodospirillaceae,True,1.0,0.002403245813722093
+sparse20_family,f__Solirubrobacteraceae,True,-1.0,-1.288187423229798
+sparse20_family,f__Polyangiaceae,True,1.0,0.8119844422660366
+sparse20_family,f__Holosporaceae,True,-1.0,-2.2444055182893674
+sparse20_family,f__Unknown Family,True,1.0,1.0530500288344804
+sparse20_family,f__Chthoniobacteraceae,True,-1.0,-0.733600269429718
+sparse20_family,f__Cyclobacteriaceae,True,1.0,2.126534631066442
+sparse20_family,f__WX65,True,-1.0,-0.5786410939974838
+sparse20_family,f__211ds20,True,1.0,0.536217879551816
+sparse20_family,f__AKIW781,True,-1.0,-0.9571870751605772
+sparse20_family,f__Lutispora,True,1.0,1.4089278457792498
+sparse20_family,f__37-13,True,-1.0,-0.9234676640269237

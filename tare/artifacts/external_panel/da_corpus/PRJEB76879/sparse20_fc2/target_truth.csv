@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Anaerolineaceae,True,1.0,1.0455574411885575
+sparse20_fc2,f__BIrii41,True,-1.0,-0.6611925531197174
+sparse20_fc2,f__Fimbriimonadaceae,True,1.0,1.4497561844217621
+sparse20_fc2,f__Micromonosporaceae,True,-1.0,-0.6812205033359
+sparse20_fc2,f__Myxococcaceae,True,1.0,0.9997871106072023
+sparse20_fc2,f__Rhodanobacteraceae,True,-1.0,-0.7976012253489869
+sparse20_fc2,g__ADurb.Bin063-1,True,1.0,1.0805619524841887
+sparse20_fc2,g__Altererythrobacter,True,-1.0,-0.8328224079556685
+sparse20_fc2,g__Bdellovibrio,True,1.0,0.41547654866496914
+sparse20_fc2,g__Brevundimonas,True,-1.0,-0.8951121462172678
+sparse20_fc2,g__Candidatus Solibacter,True,1.0,1.4208749841850827
+sparse20_fc2,g__Cellvibrio,True,-1.0,-0.6236369011920194
+sparse20_fc2,g__Ellin6067,True,1.0,1.0995023555452044
+sparse20_fc2,g__Hyphomicrobium,True,-1.0,-1.1281869387892753
+sparse20_fc2,g__Niastella,True,1.0,1.1525743071677828
+sparse20_fc2,g__Noviherbaspirillum,True,-1.0,-0.9981348894019957
+sparse20_fc2,g__Novosphingobium,True,1.0,0.6095388680377315
+sparse20_fc2,g__TM7a,True,-1.0,-0.06888641928511409
+sparse20_fc2,g__Tumebacillus,True,1.0,0.9143731762222005
+sparse20_fc2,g__mle1-7,True,-1.0,-1.1219989160185804

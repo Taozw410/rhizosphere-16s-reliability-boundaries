@@ -1,0 +1,24 @@
+{
+  "method": "linda",
+  "method_version": "1.4",
+  "scenario": "sparse20_fc2",
+  "seed": 48001,
+  "status": "ok",
+  "elapsed_sec": 0.62,
+  "n_samples": 4,
+  "n_features_input": 120,
+  "n_features_output": 118,
+  "n_reject": 0,
+  "method_args": {
+    "formula": "~ condition",
+    "feature.dat.type": "count",
+    "prev.filter": 0.1,
+    "p.adj.method": "BH",
+    "alpha": 0.05,
+    "adaptive": false,
+    "zero.handling": "pseudo-count",
+    "pseudo.cnt": 0.5,
+    "n.cores": 1
+  },
+  "error": ""
+}

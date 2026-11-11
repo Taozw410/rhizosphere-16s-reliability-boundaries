@@ -1,8 +1,8 @@
 {
-  "title": "Reproducibility, synthetic accuracy and cross-project transportability identify distinct reliability boundaries in multi-study rhizosphere 16S analyses",
-  "description": "Code, calibration parameters, frozen summary outputs, figure source data, project manifests and submission materials for a multi-study rhizosphere 16S reliability benchmark.",
+  "title": "A transportability-aware reliability envelope for project-specific differential-abundance analysis of multi-study rhizosphere 16S rRNA gene sequencing data",
+  "description": "TARE-DA model, frozen parameters, project-held-out validation, independent external panel, family-level sensitivity, source data, Figure 6 and restructured manuscript.",
   "upload_type": "dataset",
-  "publication_date": "2026-11-01",
+  "publication_date": "2026-11-12",
   "creators": [
     {
       "name": "Tao, Ziwei",
@@ -20,11 +20,12 @@
   ],
   "keywords": [
     "rhizosphere microbiome",
-    "16S rRNA",
-    "reproducibility",
-    "benchmark",
+    "16S rRNA gene sequencing",
+    "differential abundance",
+    "conformal prediction",
     "transportability",
-    "differential abundance"
+    "reliability envelope"
   ],
-  "access_right": "open"
+  "access_right": "open",
+  "version": "0.2.0"
 }

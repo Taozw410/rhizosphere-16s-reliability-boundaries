@@ -1,31 +1,46 @@
-# Reproducibility, synthetic accuracy and transportability in multi-study rhizosphere 16S analyses
+# A transportability-aware reliability envelope for rhizosphere 16S differential-abundance analysis
 
-This repository contains the code, frozen simulation parameters, summary outputs, source data, figure data and submission materials for a multi-study benchmark of rhizosphere 16S analyses.
+This repository contains the code, frozen parameters, summary outputs, source
+data and manuscript for a multi-study rhizosphere 16S reliability study. The
+central contribution is TARE-DA, a project-specific differential-abundance
+reliability envelope that predicts method utility intervals, estimates the
+probability of meeting a reliability criterion and distinguishes evidence
+decisions from out-of-support applicability.
 
-The study asks whether three reliability dimensions are interchangeable:
+The development corpus contains 45 public maize, rice and wheat rhizosphere
+projects (1,219 samples). The independent stress panel contains six projects
+(two per crop; 426 samples) with no project-accession overlap.
 
-1. reproducibility across seeds, splits or real project panels;
-2. accuracy against a specified simulation truth;
-3. structural transportability of a fitted generator to withheld 15-project panels.
+## Key results
 
-The benchmark integrates 45 public maize, rice and wheat rhizosphere projects comprising 1,219 samples and 2,024 named genus- or family-level features plus one unassigned aggregate. Raw FASTQ files are not redistributed. Public project accessions are listed in `data/project_manifest/project_accessions.csv`.
+- Internal TARE-DA utility MAE: 0.0790 versus 0.0948 for the development-only
+  method-by-scenario prior.
+- Internal 95% conformal coverage: 0.954.
+- Strong-effect reliability AUROC: 0.883.
+- ALLOW precision: 0.983.
+- Independent external MAE: 0.1414 versus 0.1853.
+- External coverage: 0.854.
+- All external projects were outside the development support envelope and were
+  assigned DEFER_OUT_OF_SUPPORT.
 
-## Repository contents
+## Repository layout
 
-- `scripts/`: Python, R and PowerShell analysis code.
-- `data/parameter_estimation/`: calibrated simulation parameters and calibration summaries.
-- `data/formal_measure/`: a compact measured DA example used to verify the unified method interface.
-- `data/summary/`: frozen summary outputs used by the manuscript.
-- `data/project_manifest/`: project selection, metadata and sequencing summaries.
-- `data/figure_source_data/`: source data for Figures 1-5.
-- `data/source_data/`: consolidated workbook and manuscript tables.
-- `submission/`: current manuscript, supplementary material, figures and declarations.
-- `docs/`: benchmark specifications, seed budget and reproduction notes.
-- `environment/`: software versions and package requirements.
+- `tare/`: TARE specifications, scripts, model artifact, predictions, external
+  panel, family-level sensitivity, application example, diagnostics and
+  Figure 6.
+- `manuscript_v2/`: restructured manuscript source, DOCX/PDF, tables, figure
+  legends, references, Chinese abstract and reviewer response matrix.
+- `data/tare_inputs/`: portable input tables required by the TARE scripts.
+- `scripts/`: original benchmark scripts plus portable TARE runners.
+- `data/summary/`, `data/project_manifest/`, `figures/`: the earlier benchmark
+  release retained for provenance.
+- `submission/`: the earlier Microbiological Research package retained as
+  historical material.
 
 ## Reproduction
 
-Run commands from the repository root. The scripts use paths relative to the repository and no longer depend on the original workstation path. See `REPRODUCING.md`.
+Run commands from the repository root. See `tare/REPRODUCING.md`. Raw FASTQ
+files and large intermediate outputs are not redistributed.
 
 ## Authors
 
@@ -35,12 +50,9 @@ Run commands from the repository root. The scripts use paths relative to the rep
 
 Corresponding author: Ziwei Tao, taozw@gxust.edu.cn
 
-## Data provenance
+## Version
 
-The 45 source projects were reprocessed from public FASTQ reads. The repository stores derived feature summaries and analysis inputs that contain no private or controlled-access data.
+Current release: v0.2.0.
 
-Versioned release: https://github.com/Taozw410/rhizosphere-16s-reliability-boundaries/releases/tag/v0.1.1
-
-## Reuse terms
-
-No reuse license has been assigned in this working repository. The authors should choose a code license and a data license before publishing a DOI for the associated article.
+The v0.1.1 benchmark release remains available in Git history and GitHub
+releases.

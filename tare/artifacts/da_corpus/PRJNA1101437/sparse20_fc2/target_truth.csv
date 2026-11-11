@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A4b,True,1.0,1.1840596704201487
+sparse20_fc2,f__Comamonadaceae,True,-1.0,-0.6842827896507534
+sparse20_fc2,f__Fimbriimonadaceae,True,1.0,1.7660549470558105
+sparse20_fc2,f__Gemmatimonadaceae,True,-1.0,-1.160167950481578
+sparse20_fc2,f__Longimicrobiaceae,True,1.0,0.0
+sparse20_fc2,f__Methyloligellaceae,True,-1.0,-1.1590550101632036
+sparse20_fc2,f__Myxococcaceae,True,1.0,0.8329799664489073
+sparse20_fc2,f__Roseiflexaceae,True,-1.0,-2.625368480562355
+sparse20_fc2,f__Sutterellaceae,True,1.0,-10.100757496305688
+sparse20_fc2,f__Xanthobacteraceae,True,-1.0,-1.156250817856301
+sparse20_fc2,g__Arenimonas,True,1.0,13.932636288591661
+sparse20_fc2,g__Brevundimonas,True,-1.0,0.05781422376963439
+sparse20_fc2,g__Bryobacter,True,1.0,-11.616162011912916
+sparse20_fc2,g__Clostridium sensu stricto 1,True,-1.0,-1.6692100046524287
+sparse20_fc2,g__Conexibacter,True,1.0,1.0624898464181094
+sparse20_fc2,g__MND1,True,-1.0,-1.1818690033957984
+sparse20_fc2,g__Nitrospira,True,1.0,-5.017933654776598
+sparse20_fc2,g__Pajaroellobacter,True,-1.0,-13.220489885916821
+sparse20_fc2,g__RB41,True,1.0,0.0
+sparse20_fc2,g__Terrimonas,True,-1.0,0.6147781322319085

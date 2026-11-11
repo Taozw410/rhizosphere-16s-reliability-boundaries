@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Comamonadaceae,True,1.0,0.6360150727004598
+sparse20_family,f__env.OPS 17,True,-1.0,-1.3385232499969784
+sparse20_family,f__Vicinamibacteraceae,True,1.0,0.6323556848798508
+sparse20_family,f__Pedosphaeraceae,True,-1.0,-1.349315928168767
+sparse20_family,f__Roseiflexaceae,True,1.0,0.9378237469185121
+sparse20_family,f__WD2101 soil group,True,-1.0,-1.7528528340510499
+sparse20_family,f__Sandaracinaceae,True,1.0,1.2236788489185682
+sparse20_family,f__Saprospiraceae,True,-1.0,-1.4524595166896173
+sparse20_family,f__Nitrososphaeraceae,True,1.0,0.5956056659196917
+sparse20_family,f__Xanthomonadaceae,True,-1.0,-1.047992551749691
+sparse20_family,f__Geobacteraceae,True,1.0,0.9178529199780106
+sparse20_family,f__NS11-12 marine group,True,-1.0,-1.238127910417061
+sparse20_family,f__Oligoflexaceae,True,1.0,0.6134088607390474
+sparse20_family,f__Rhodocyclaceae,True,-1.0,-1.053543178126738
+sparse20_family,f__AKYG1722,True,1.0,0.9269817718842676
+sparse20_family,f__Rhodospirillaceae,True,-1.0,-1.109864631858339
+sparse20_family,f__Rhodothermaceae,True,1.0,0.5712232818236381
+sparse20_family,f__Paludibacteraceae,True,-1.0,-0.9988702924817198
+sparse20_family,f__Ardenticatenaceae,True,1.0,1.1888872216952935
+sparse20_family,f__Hydrogenedensaceae,True,-1.0,-1.3838540750876764

@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__67-14,True,1.0,0.8038724306801679
+sparse20_family,f__SC-I-84,True,-1.0,-1.756704727390953
+sparse20_family,f__Chitinophagaceae,True,1.0,0.7388150301148773
+sparse20_family,f__Vicinamibacteraceae,True,-1.0,-1.062438307125528
+sparse20_family,f__BIrii41,True,1.0,0.22604094418024784
+sparse20_family,f__Micropepsaceae,True,-1.0,-2.0614516209779237
+sparse20_family,f__A4b,True,1.0,0.4224866615880618
+sparse20_family,f__JG30-KF-CM45,True,-1.0,-1.0527165190528414
+sparse20_family,f__WD2101 soil group,True,1.0,0.672823622654443
+sparse20_family,f__Anaerolineaceae,True,-1.0,-1.4165384644840606
+sparse20_family,f__Micromonosporaceae,True,1.0,0.6548067081160053
+sparse20_family,f__A21b,True,-1.0,-2.2208131889828047
+sparse20_family,f__Caulobacteraceae,True,1.0,-0.6070734632194977
+sparse20_family,f__Caldilineaceae,True,-1.0,-1.5825531307753884
+sparse20_family,f__Latescibacteraceae,True,1.0,0.20570558155054472
+sparse20_family,f__Acidobacteriaceae (Subgroup 1),True,-1.0,-1.3939147203769282
+sparse20_family,f__Phycisphaeraceae,True,1.0,0.7315360156366263
+sparse20_family,f__KI89A clade,True,-1.0,-1.917056876098024
+sparse20_family,f__Streptomycetaceae,True,1.0,0.880814164637874
+sparse20_family,f__Kineosporiaceae,True,-1.0,-1.8003313024918592

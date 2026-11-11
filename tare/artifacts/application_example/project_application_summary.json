@@ -1,0 +1,11 @@
+{
+  "project": "PRJNA554261",
+  "scenario": "sparse20_fc2",
+  "interpretation": "Real project composition template with a simulator-defined strong sparse effect; not a real treatment-effect validation.",
+  "methods_with_rejections": 2,
+  "union_rejections": 16,
+  "intersection_all_methods": 0,
+  "ancombc2_rejections": 16,
+  "ancombc2_unique_rejections": 13,
+  "ancombc2_maaslin2_overlap": 3
+}

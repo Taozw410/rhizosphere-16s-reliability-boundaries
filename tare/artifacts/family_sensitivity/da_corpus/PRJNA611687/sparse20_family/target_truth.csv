@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Vicinamibacteraceae,True,1.0,1.0943601086691548
+sparse20_family,f__Microscillaceae,True,-1.0,-0.9942416673665689
+sparse20_family,f__BIrii41,True,1.0,1.083890300771047
+sparse20_family,f__TRA3-20,True,-1.0,-1.112282386193191
+sparse20_family,f__Micropepsaceae,True,1.0,1.0780703961445823
+sparse20_family,f__Methyloligellaceae,True,-1.0,-0.877206878638656
+sparse20_family,f__A4b,True,1.0,1.1519873877351507
+sparse20_family,f__Roseiflexaceae,True,-1.0,-0.737760446288949
+sparse20_family,f__WD2101 soil group,True,1.0,1.1809990194513396
+sparse20_family,f__Anaerolineaceae,True,-1.0,-0.8990783904653032
+sparse20_family,f__Fimbriimonadaceae,True,1.0,0.8956063350030723
+sparse20_family,f__Gemmataceae,True,-1.0,-1.1293572085140164
+sparse20_family,f__Oxalobacteraceae,True,1.0,0.7793178909051568
+sparse20_family,f__Sutterellaceae,True,-1.0,-0.973894635600768
+sparse20_family,f__A21b,True,1.0,0.9776493832160507
+sparse20_family,f__Planococcaceae,True,-1.0,-1.4949838950787577
+sparse20_family,f__Acidobacteriaceae (Subgroup 1),True,1.0,1.4009725101994903
+sparse20_family,f__SB-5,True,-1.0,-0.9247694894450167
+sparse20_family,f__Heliobacteriaceae,True,1.0,0.787791422576066
+sparse20_family,f__Symbiobacteraceae,True,-1.0,-1.6077811051224704

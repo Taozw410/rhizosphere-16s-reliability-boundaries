@@ -1,0 +1,10 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__env.OPS 17,True,1.0,0.5610866230986556
+sparse20_family,f__Pedosphaeraceae,True,-1.0,-1.344067037619034
+sparse20_family,f__TRA3-20,True,1.0,0.4414147491610461
+sparse20_family,f__Fimbriimonadaceae,True,-1.0,-1.271299492679337
+sparse20_family,f__Oxalobacteraceae,True,1.0,0.5212727330980447
+sparse20_family,f__NS11-12 marine group,True,-1.0,-1.4017149545620984
+sparse20_family,f__Verrucomicrobiaceae,True,1.0,0.42941357472507596
+sparse20_family,f__Opitutaceae,True,-1.0,-1.5260832754944749
+sparse20_family,f__Fibrobacteraceae,True,1.0,0.6370040605073546

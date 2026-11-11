@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Micromonosporaceae,True,1.0,-4.697602241819031
+sparse20_fc2,f__Micropepsaceae,True,-1.0,-0.7202017684214191
+sparse20_fc2,f__Oxalobacteraceae,True,1.0,0.13304297764465237
+sparse20_fc2,f__Rhizobiaceae,True,-1.0,-1.58516579306596
+sparse20_fc2,f__Roseiflexaceae,True,1.0,0.3758351899350364
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,-1.40473671227303
+sparse20_fc2,f__WD2101 soil group,True,1.0,0.7505128232465286
+sparse20_fc2,g__Adhaeribacter,True,-1.0,13.300144440091998
+sparse20_fc2,g__Aquicella,True,1.0,1.5175725999380425
+sparse20_fc2,g__Blastococcus,True,-1.0,-1.2233814520780302
+sparse20_fc2,g__Conexibacter,True,1.0,0.7993480609192468
+sparse20_fc2,g__Ellin6067,True,-1.0,-1.226079327213076
+sparse20_fc2,g__Kribbella,True,1.0,1.8086523682058149
+sparse20_fc2,g__Niastella,True,-1.0,-1.2943165882041507
+sparse20_fc2,g__Nitrospira,True,1.0,0.7234406837442553
+sparse20_fc2,g__Nocardioides,True,-1.0,-1.5084197223616322
+sparse20_fc2,g__Pajaroellobacter,True,1.0,0.9354344672381782
+sparse20_fc2,g__Pseudomonas,True,-1.0,-0.43565197984796444
+sparse20_fc2,g__Steroidobacter,True,1.0,1.4011389334520319
+sparse20_fc2,g__Subgroup 10,True,-1.0,-2.1587683131279776

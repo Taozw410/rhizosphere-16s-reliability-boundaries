@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Blastocatellaceae,True,1.0,0.8325250436862633
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,1.146195300608122
+sparse20_fc2,f__Steroidobacteraceae,True,1.0,0.7372415367006258
+sparse20_fc2,f__Xanthomonadaceae,True,-1.0,-0.49082149340518916
+sparse20_fc2,g__Adhaeribacter,True,1.0,-0.5522204291178905
+sparse20_fc2,g__Candidatus Udaeobacter,True,-1.0,-0.3715089986202408
+sparse20_fc2,g__Conexibacter,True,1.0,0.5637625098686306
+sparse20_fc2,g__Flavobacterium,True,-1.0,-1.8303035450540714
+sparse20_fc2,g__Hyphomicrobium,True,1.0,-1.93115658343274
+sparse20_fc2,g__Iamia,True,-1.0,-16.102989769348007
+sparse20_fc2,g__Mesorhizobium,True,1.0,0.7647713017644984
+sparse20_fc2,g__Nocardioides,True,-1.0,-0.6583610768407729
+sparse20_fc2,g__Novosphingobium,True,1.0,1.1715689035508994
+sparse20_fc2,g__Opitutus,True,-1.0,-0.5927602261679459
+sparse20_fc2,g__Phenylobacterium,True,1.0,1.3398472773803567
+sparse20_fc2,g__Pseudomonas,True,-1.0,-2.2394024239617925
+sparse20_fc2,g__Reyranella,True,1.0,1.6003224570343633
+sparse20_fc2,g__Streptomyces,True,-1.0,-0.41687860621052447
+sparse20_fc2,g__Subgroup 10,True,1.0,0.9131179487078892
+sparse20_fc2,g__mle1-7,True,-1.0,-0.014630438271883485

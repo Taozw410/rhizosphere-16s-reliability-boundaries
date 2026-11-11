@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A4b,True,1.0,0.9157764577475453
+sparse20_fc2,f__Acetobacteraceae,True,-1.0,-1.3963117649036951
+sparse20_fc2,f__Anaerolineaceae,True,1.0,1.6968778012381769
+sparse20_fc2,f__Gemmataceae,True,-1.0,-0.8294398222775052
+sparse20_fc2,f__JG30-KF-CM45,True,1.0,1.1796294976949078
+sparse20_fc2,f__Nitrososphaeraceae,True,-1.0,-0.7276786628658012
+sparse20_fc2,f__Sutterellaceae,True,1.0,1.2158160781771779
+sparse20_fc2,f__WD2101 soil group,True,-1.0,-0.5308605487545038
+sparse20_fc2,g__Altererythrobacter,True,1.0,1.4646942328466266
+sparse20_fc2,g__Bryobacter,True,-1.0,-1.2125977818311193
+sparse20_fc2,g__Caulobacter,True,1.0,1.6021811291114034
+sparse20_fc2,g__Gemmatimonas,True,-1.0,-0.5138230744219257
+sparse20_fc2,g__Luteolibacter,True,1.0,1.4374381175934101
+sparse20_fc2,g__Mesorhizobium,True,-1.0,-1.1138344278176868
+sparse20_fc2,g__Nocardioides,True,1.0,0.6157355372876571
+sparse20_fc2,g__Noviherbaspirillum,True,-1.0,-14.867570779687554
+sparse20_fc2,g__Paenibacillus,True,1.0,2.844961694305704
+sparse20_fc2,g__Phenylobacterium,True,-1.0,-1.1840519048392577
+sparse20_fc2,g__Ramlibacter,True,1.0,1.5338279992348671
+sparse20_fc2,g__Sumerlaea,True,-1.0,-2.888125523554694

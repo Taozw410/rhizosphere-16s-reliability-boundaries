@@ -1,0 +1,50 @@
+{
+  "model": "TARE-DA hierarchical gradient-boosted reliability envelope",
+  "partitions": 10,
+  "outer_folds": 5,
+  "inner_folds": 4,
+  "projects": 45,
+  "methods": [
+    "aldex2",
+    "ancombc2",
+    "linda",
+    "maaslin2"
+  ],
+  "scenarios": [
+    "no_effect",
+    "sparse20_fc2"
+  ],
+  "features": [
+    "asv_len_mode",
+    "unassigned_pct",
+    "genus_pct",
+    "family_pct",
+    "tare_n_samples",
+    "tare_depth_log_median",
+    "tare_prevalence_mean",
+    "tare_zero_fraction",
+    "tare_bray_median",
+    "tare_aitchison_median",
+    "tare_network_density_median",
+    "tare_network_centrality_median",
+    "scenario_severity",
+    "log_n_samples",
+    "log_depth_median",
+    "log_n_asv_median",
+    "crop_maize",
+    "crop_rice",
+    "crop_wheat",
+    "method_aldex2",
+    "method_ancombc2",
+    "method_linda",
+    "method_maaslin2"
+  ],
+  "decision_rule": {
+    "ALLOW": "P(reliable) >= 0.80 and lower 95% conformal bound >= 0.50",
+    "DENY": "P(reliable) < 0.30 or lower bound < 0.20",
+    "else": "CONDITIONAL"
+  },
+  "leakage_control": "All rows from a held-out project are excluded from fitting and conformal calibration.",
+  "final_model": "tare_da_final_model.joblib",
+  "conformal_radius": 0.313147118912476
+}

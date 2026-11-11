@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A21b,True,1.0,0.5384952845462467
+sparse20_fc2,f__Blastocatellaceae,True,-1.0,-0.8208409188202076
+sparse20_fc2,f__Caulobacteraceae,True,1.0,0.21628855272566455
+sparse20_fc2,f__Longimicrobiaceae,True,-1.0,-0.9793303622852696
+sparse20_fc2,f__Microscillaceae,True,1.0,1.325083130126229
+sparse20_fc2,f__Roseiflexaceae,True,-1.0,-0.9860802419317735
+sparse20_fc2,f__WD2101 soil group,True,1.0,1.006815169867377
+sparse20_fc2,f__Xanthomonadaceae,True,-1.0,-0.9672142047737721
+sparse20_fc2,f__env.OPS 17,True,1.0,1.0722578479938552
+sparse20_fc2,g__Burkholderia-Caballeronia-Paraburkholderia,True,-1.0,-1.3528230691001295
+sparse20_fc2,g__Candidatus Udaeobacter,True,1.0,1.0790446177866226
+sparse20_fc2,g__Dongia,True,-1.0,-0.998122791327661
+sparse20_fc2,g__Flavisolibacter,True,1.0,1.0163600221335674
+sparse20_fc2,g__Luteolibacter,True,-1.0,-0.7784080039742974
+sparse20_fc2,g__MND1,True,1.0,1.1551183634713722
+sparse20_fc2,g__Mycobacterium,True,-1.0,-0.9735556513734165
+sparse20_fc2,g__Noviherbaspirillum,True,1.0,0.19590627070186972
+sparse20_fc2,g__Pirellula,True,-1.0,-0.638738877273595
+sparse20_fc2,g__Pseudarthrobacter,True,1.0,0.4262277234017896
+sparse20_fc2,g__mle1-7,True,-1.0,-0.8947300044638166

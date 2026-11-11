@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__67-14,True,1.0,1.01237757773568
+sparse20_fc2,f__Caldilineaceae,True,-1.0,-1.0968969812467897
+sparse20_fc2,f__Myxococcaceae,True,1.0,0.8874099127023328
+sparse20_fc2,f__Nitrososphaeraceae,True,-1.0,-1.1209844897903272
+sparse20_fc2,f__Pedosphaeraceae,True,1.0,0.9738787608514572
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,-1.2138103288346396
+sparse20_fc2,f__Steroidobacteraceae,True,1.0,0.9927074980537667
+sparse20_fc2,f__Xanthobacteraceae,True,-1.0,-1.0542496612062522
+sparse20_fc2,g__Adhaeribacter,True,1.0,1.133426694259749
+sparse20_fc2,g__Candidatus Solibacter,True,-1.0,-0.9307711176482071
+sparse20_fc2,g__Chthoniobacter,True,1.0,0.96605466029118
+sparse20_fc2,g__Devosia,True,-1.0,-1.0725901743007957
+sparse20_fc2,g__Dongia,True,1.0,1.038418306159349
+sparse20_fc2,g__Flavobacterium,True,-1.0,-1.424290434906631
+sparse20_fc2,g__Iamia,True,1.0,1.074011977542973
+sparse20_fc2,g__Phenylobacterium,True,-1.0,-1.0648664113762134
+sparse20_fc2,g__RB41,True,1.0,0.8293047370813112
+sparse20_fc2,g__Reyranella,True,-1.0,-1.028599590186312
+sparse20_fc2,g__Solirubrobacter,True,1.0,0.9299199368793991
+sparse20_fc2,g__TM7a,True,-1.0,-0.9781037535055829

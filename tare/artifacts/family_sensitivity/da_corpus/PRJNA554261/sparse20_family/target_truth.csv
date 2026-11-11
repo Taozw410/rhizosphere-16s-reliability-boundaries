@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__67-14,True,1.0,1.1604078963742066
+sparse20_family,f__Chitinophagaceae,True,-1.0,-0.9237965435794946
+sparse20_family,f__Anaerolineaceae,True,1.0,1.2098741205073684
+sparse20_family,f__Gemmataceae,True,-1.0,-0.9422015762298187
+sparse20_family,f__Rhodanobacteraceae,True,1.0,1.0986527315939212
+sparse20_family,f__Diplorickettsiaceae,True,-1.0,-0.8037915985811478
+sparse20_family,f__LWQ8,True,1.0,1.1114859660549163
+sparse20_family,f__Devosiaceae,True,-1.0,-0.5988009880988253
+sparse20_family,f__Bacillaceae,True,1.0,0.9386499859131872
+sparse20_family,f__KF-JG30-B3,True,-1.0,-0.8530892884140371
+sparse20_family,f__NS11-12 marine group,True,1.0,0.30720093016703753
+sparse20_family,f__Vermiphilaceae,True,-1.0,-1.079396168591356
+sparse20_family,f__Oligoflexaceae,True,1.0,0.6797917187997828
+sparse20_family,f__SM2D12,True,-1.0,-1.3413750977994723
+sparse20_family,f__Solirubrobacteraceae,True,1.0,0.713375653056558
+sparse20_family,f__Phycisphaeraceae,True,-1.0,-0.9895633974450161
+sparse20_family,f__Rhodothermaceae,True,1.0,1.1138618121570472
+sparse20_family,f__211ds20,True,-1.0,-1.0276852839561117
+sparse20_family,f__Hungateiclostridiaceae,True,1.0,0.2723876998988974
+sparse20_family,f__Magnetospirillaceae,True,-1.0,-1.3004953545052926

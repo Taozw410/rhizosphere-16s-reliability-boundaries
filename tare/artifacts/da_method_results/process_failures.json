@@ -1,0 +1,50 @@
+[
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1136486//no_effect",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12406.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1136486//no_effect D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA1136486//no_effect 19000 no_effect` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1136486//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12406.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1136486//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA1136486//sparse20_fc2 19001 sparse20_fc2` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1146338//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12406.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1146338//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA1146338//sparse20_fc2 20001 sparse20_fc2` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1101437//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12409.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1101437//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA1101437//sparse20_fc2 18001 sparse20_fc2` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJEB21590//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12406.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJEB21590//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJEB21590//sparse20_fc2 13001 sparse20_fc2` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1157226//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_12441.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA1157226//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA1157226//sparse20_fc2 21001 sparse20_fc2` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA578725//no_effect",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_14897.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA578725//no_effect D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA578725//no_effect 36000 no_effect` failed. (See above for error)/n"
+  },
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA607209//sparse20_fc2",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_15609.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//da_corpus//PRJNA607209//sparse20_fc2 D://CodexWork//mic-re//tare//artifacts//da_method_results//PRJNA607209//sparse20_fc2 40001 sparse20_fc2` failed. (See above for error)/n"
+  }
+]

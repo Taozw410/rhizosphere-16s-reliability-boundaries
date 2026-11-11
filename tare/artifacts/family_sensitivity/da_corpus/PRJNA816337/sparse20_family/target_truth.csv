@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Comamonadaceae,True,1.0,1.0007622160100675
+sparse20_family,f__SC-I-84,True,-1.0,-1.547564483301594
+sparse20_family,f__Pedosphaeraceae,True,1.0,0.33188161240934666
+sparse20_family,f__A4b,True,-1.0,-1.125018457925675
+sparse20_family,f__Roseiflexaceae,True,1.0,1.5419327793994064
+sparse20_family,f__JG30-KF-CM45,True,-1.0,-1.2188716762556515
+sparse20_family,f__Fimbriimonadaceae,True,1.0,1.3160330347449436
+sparse20_family,f__Saprospiraceae,True,-1.0,-1.9387213313709395
+sparse20_family,f__Diplorickettsiaceae,True,1.0,-0.03225531079965038
+sparse20_family,f__KF-JG30-B3,True,-1.0,-1.0660097023146828
+sparse20_family,f__Ktedonobacteraceae,True,1.0,0.7853251905024502
+sparse20_family,f__Verrucomicrobiaceae,True,-1.0,-1.0598011484607714
+sparse20_family,f__Oligoflexaceae,True,1.0,1.1838248086017662
+sparse20_family,f__Acidobacteriaceae (Subgroup 1),True,-1.0,-1.126142103582921
+sparse20_family,f__Rhodospirillaceae,True,1.0,1.143608832364321
+sparse20_family,f__Holosporaceae,True,-1.0,-1.1579451517358483
+sparse20_family,f__CPla-3 termite group,True,1.0,0.9771098595197604
+sparse20_family,f__Pseudonocardiaceae,True,-1.0,-0.7354641272742409
+sparse20_family,f__37-13,True,1.0,1.7056559056419902
+sparse20_family,f__Elsteraceae,True,-1.0,-1.5818172747112154

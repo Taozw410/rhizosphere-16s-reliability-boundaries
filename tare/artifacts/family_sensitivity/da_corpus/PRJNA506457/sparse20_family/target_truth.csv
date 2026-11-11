@@ -1,0 +1,8 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Comamonadaceae,True,1.0,0.6942278511236514
+sparse20_family,f__Xanthobacteraceae,True,-1.0,-1.1790043929836895
+sparse20_family,f__Chitinophagaceae,True,1.0,0.7894625779265606
+sparse20_family,f__Nitrososphaeraceae,True,-1.0,-1.1961236476758714
+sparse20_family,f__Oxalobacteraceae,True,1.0,0.7310151624245218
+sparse20_family,f__Rhizobiaceae,True,-1.0,-1.1542590400658475
+sparse20_family,f__Xanthomonadaceae,True,1.0,0.8108421788547977

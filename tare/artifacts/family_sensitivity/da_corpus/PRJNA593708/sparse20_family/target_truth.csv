@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Gemmatimonadaceae,True,1.0,1.1177322899822517
+sparse20_family,f__Comamonadaceae,True,-1.0,-1.1775954681965097
+sparse20_family,f__Xanthobacteraceae,True,1.0,0.6330708256166312
+sparse20_family,f__67-14,True,-1.0,-0.9695041360321766
+sparse20_family,f__SC-I-84,True,1.0,0.938059193030397
+sparse20_family,f__Chitinophagaceae,True,-1.0,-1.0982050064229727
+sparse20_family,f__env.OPS 17,True,1.0,0.7019304058825971
+sparse20_family,f__TRA3-20,True,-1.0,-1.126162636807701
+sparse20_family,f__Sphingomonadaceae,True,1.0,0.905128928716063
+sparse20_family,f__Saprospiraceae,True,-1.0,-1.4054924919864904
+sparse20_family,f__Sutterellaceae,True,1.0,0.8868037906220166
+sparse20_family,f__Caulobacteraceae,True,-1.0,-1.6020695132146006
+sparse20_family,f__Diplorickettsiaceae,True,1.0,0.7858711589735224
+sparse20_family,f__Devosiaceae,True,-1.0,-0.22265852312124235
+sparse20_family,f__Ilumatobacteraceae,True,1.0,1.2885885454684987
+sparse20_family,f__Geobacteraceae,True,-1.0,-1.3580240772676113
+sparse20_family,f__AKYH767,True,1.0,0.7131559928449926
+sparse20_family,f__Microbacteriaceae,True,-1.0,-1.1479811139430374
+sparse20_family,f__KI89A clade,True,1.0,1.1201863535506764
+sparse20_family,f__Opitutaceae,True,-1.0,-0.9231614486344202

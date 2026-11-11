@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Anaerolineaceae,True,1.0,1.2178635036389718
+sparse20_fc2,f__Caulobacteraceae,True,-1.0,0.0
+sparse20_fc2,f__Diplorickettsiaceae,True,1.0,0.0
+sparse20_fc2,f__Methyloligellaceae,True,-1.0,-1.0505947081030658
+sparse20_fc2,f__Microscillaceae,True,1.0,0.0
+sparse20_fc2,f__Rhizobiaceae,True,-1.0,0.0
+sparse20_fc2,f__Sandaracinaceae,True,1.0,-11.421326868302325
+sparse20_fc2,f__TRA3-20,True,-1.0,0.0
+sparse20_fc2,f__Vicinamibacteraceae,True,1.0,0.0
+sparse20_fc2,g__Adhaeribacter,True,-1.0,0.0
+sparse20_fc2,g__Brevundimonas,True,1.0,13.656890442982322
+sparse20_fc2,g__Candidatus Koribacter,True,-1.0,10.457150265334498
+sparse20_fc2,g__Devosia,True,1.0,0.3685941241775638
+sparse20_fc2,g__Ellin6067,True,-1.0,-11.86632619216258
+sparse20_fc2,g__Luteolibacter,True,1.0,3.1892575656252866
+sparse20_fc2,g__Ohtaekwangia,True,-1.0,0.0
+sparse20_fc2,g__Opitutus,True,1.0,-11.227406359417795
+sparse20_fc2,g__Phenylobacterium,True,-1.0,-2.0745464833072567
+sparse20_fc2,g__Solirubrobacter,True,1.0,0.0
+sparse20_fc2,g__Tumebacillus,True,-1.0,-1.2098019924870198

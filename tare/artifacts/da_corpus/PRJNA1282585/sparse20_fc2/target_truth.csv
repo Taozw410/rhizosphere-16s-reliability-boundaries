@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Acetobacteraceae,True,1.0,13.25041637472798
+sparse20_fc2,f__Caulobacteraceae,True,-1.0,0.0
+sparse20_fc2,f__Comamonadaceae,True,1.0,0.13040064278591107
+sparse20_fc2,f__Diplorickettsiaceae,True,-1.0,-0.39784752326879286
+sparse20_fc2,f__Micropepsaceae,True,1.0,0.3049851347371791
+sparse20_fc2,f__Nitrososphaeraceae,True,-1.0,-1.6603823840547225
+sparse20_fc2,f__Roseiflexaceae,True,1.0,1.3530018816271996
+sparse20_fc2,f__Sutterellaceae,True,-1.0,-0.79647905618711
+sparse20_fc2,g__Altererythrobacter,True,1.0,0.8437455069483927
+sparse20_fc2,g__Bradyrhizobium,True,-1.0,-1.1539387869286242
+sparse20_fc2,g__Bryobacter,True,1.0,-0.46200167275961196
+sparse20_fc2,g__Cellvibrio,True,-1.0,-1.1308402439183804
+sparse20_fc2,g__Lysobacter,True,1.0,-0.03822266149697205
+sparse20_fc2,g__MND1,True,-1.0,-0.6092230755449772
+sparse20_fc2,g__Microvirga,True,1.0,1.0979763223415968
+sparse20_fc2,g__Nitrospira,True,-1.0,-1.195810867223499
+sparse20_fc2,g__Nocardioides,True,1.0,2.7481940586684788
+sparse20_fc2,g__RB41,True,-1.0,-0.30443393519967077
+sparse20_fc2,g__Subgroup 10,True,1.0,-1.5588845532964548
+sparse20_fc2,g__mle1-7,True,-1.0,-14.52341803635066

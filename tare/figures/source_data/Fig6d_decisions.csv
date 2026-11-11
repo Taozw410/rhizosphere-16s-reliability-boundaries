@@ -1,0 +1,5 @@
+scenario,decision,count
+no_effect,ALLOW,1786
+no_effect,CONDITIONAL,14
+sparse20_fc2,CONDITIONAL,16
+sparse20_fc2,DENY,1784

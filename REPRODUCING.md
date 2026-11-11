@@ -27,3 +27,7 @@ The frozen summaries in `data/summary` feed the manuscript tables and figures. F
 ## Large intermediate files
 
 Generated benchmark datasets, dense per-replicate method outputs and raw FASTQ files are intentionally excluded. They are reproducible from the frozen parameter files, seed grids and scripts; the included aggregate summaries preserve all numerical results reported in the manuscript.
+
+## TARE-v2
+
+See `tare/REPRODUCING.md` for the restructured model, external panel, family-level sensitivity and manuscript.

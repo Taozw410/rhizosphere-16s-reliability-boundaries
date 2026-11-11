@@ -1,0 +1,24 @@
+{
+  "method": "maaslin2",
+  "method_version": "1.26.0",
+  "scenario": "no_effect",
+  "seed": 16000,
+  "status": "ok",
+  "elapsed_sec": 2.6623,
+  "n_samples": 30,
+  "n_features_input": 120,
+  "n_features_output": 100,
+  "n_reject": 1,
+  "method_args": {
+    "fixed_effects": "condition",
+    "random_effects": {},
+    "normalization": "TSS",
+    "transform": "LOG",
+    "analysis_method": "LM",
+    "min_prevalence": 0.1,
+    "max_significance": 0.05,
+    "correction": "BH",
+    "cores": 1
+  },
+  "error": ""
+}

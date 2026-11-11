@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A21b,True,1.0,2.8066136985601626
+sparse20_fc2,f__Caulobacteraceae,True,-1.0,-14.843526581915492
+sparse20_fc2,f__Myxococcaceae,True,1.0,1.1340284222733643
+sparse20_fc2,f__Rhodocyclaceae,True,-1.0,-15.125628934062838
+sparse20_fc2,f__WD2101 soil group,True,1.0,-0.8670583547649486
+sparse20_fc2,g__ADurb.Bin063-1,True,-1.0,-2.0550804334078308
+sparse20_fc2,g__Adhaeribacter,True,1.0,0.7072264025744762
+sparse20_fc2,g__Blastococcus,True,-1.0,0.0
+sparse20_fc2,g__Candidatus Koribacter,True,1.0,0.6128520384383497
+sparse20_fc2,g__Cellvibrio,True,-1.0,-1.463746428824205
+sparse20_fc2,g__Devosia,True,1.0,0.8307108956881792
+sparse20_fc2,g__Dyadobacter,True,-1.0,-1.0304371967637906
+sparse20_fc2,g__MND1,True,1.0,0.0
+sparse20_fc2,g__Microvirga,True,-1.0,-0.6488813114212773
+sparse20_fc2,g__Ohtaekwangia,True,1.0,1.9343415283407617
+sparse20_fc2,g__Pajaroellobacter,True,-1.0,-15.374358779520268
+sparse20_fc2,g__Roseomonas,True,1.0,0.0
+sparse20_fc2,g__Streptomyces,True,-1.0,-15.288418050508215
+sparse20_fc2,g__TM7a,True,1.0,-1.1057346265731398
+sparse20_fc2,g__mle1-7,True,-1.0,0.0

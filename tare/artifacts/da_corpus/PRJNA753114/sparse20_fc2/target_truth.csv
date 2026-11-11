@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Acetobacteraceae,True,1.0,17.311427178671952
+sparse20_fc2,f__Xanthobacteraceae,True,-1.0,-2.730686040536347
+sparse20_fc2,f__Xanthomonadaceae,True,1.0,2.4691988780281036
+sparse20_fc2,g__ADurb.Bin063-1,True,-1.0,-2.1011168279031844
+sparse20_fc2,g__Altererythrobacter,True,1.0,0.18145799824379832
+sparse20_fc2,g__Brevundimonas,True,-1.0,-1.4944549746143947
+sparse20_fc2,g__Candidatus Koribacter,True,1.0,-9.829325738074314
+sparse20_fc2,g__Chthoniobacter,True,-1.0,-1.534398801920833
+sparse20_fc2,g__Iamia,True,1.0,0.5168556416908041
+sparse20_fc2,g__Jatrophihabitans,True,-1.0,-1.2778260037563387
+sparse20_fc2,g__Lysobacter,True,1.0,2.3096825062033455
+sparse20_fc2,g__MND1,True,-1.0,-2.2297578380025107
+sparse20_fc2,g__Marmoricola,True,1.0,1.6797090634628369
+sparse20_fc2,g__Microvirga,True,-1.0,-1.9305824202303947
+sparse20_fc2,g__Nordella,True,1.0,0.7546325802142914
+sparse20_fc2,g__Noviherbaspirillum,True,-1.0,-1.5473722061850033
+sparse20_fc2,g__Paenibacillus,True,1.0,1.5420075397102968
+sparse20_fc2,g__Phenylobacterium,True,-1.0,-1.9735369189729344
+sparse20_fc2,g__Sphingobium,True,1.0,0.2413815514001207
+sparse20_fc2,g__Subgroup 10,True,-1.0,-3.4310586883936454

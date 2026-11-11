@@ -1,0 +1,103 @@
+{
+  "checks": {
+    "corpus_rows_90": true,
+    "corpus_projects_45": true,
+    "corpus_two_scenarios_per_project": true,
+    "metric_rows_360": true,
+    "status_rows_360": true,
+    "prediction_rows_3600": true,
+    "partition_count_10": true,
+    "each_partition_contains_each_project_once_per_method_scenario": true,
+    "tare_mae_below_baseline": true,
+    "coverage_at_least_0_80": true,
+    "allow_precision_above_0_80": true,
+    "all_reproducibility_hashes_identical": true,
+    "final_model_loaded": true,
+    "external_six_projects": true,
+    "external_two_per_crop": true,
+    "external_zero_development_overlap": true,
+    "external_426_samples": true,
+    "external_48_predictions": true,
+    "external_all_method_rows_ok": true,
+    "external_model_not_retrained": true,
+    "external_mae_below_development_prior": true,
+    "external_coverage_at_least_0_80": true,
+    "external_ood_fraction_recorded": true,
+    "family_sensitivity_180_outcomes": true,
+    "family_sensitivity_order_changed": true,
+    "application_example_present": true,
+    "mismatch_linkage_present": true,
+    "decision_threshold_curve_present": true
+  },
+  "all_pass": true,
+  "methods": {
+    "aldex2": 90,
+    "ancombc2": 90,
+    "linda": 90,
+    "maaslin2": 90
+  },
+  "method_execution_status": [
+    {
+      "method": "aldex2",
+      "process_status": "ok",
+      "count": 90
+    },
+    {
+      "method": "ancombc2",
+      "process_status": "ok",
+      "count": 90
+    },
+    {
+      "method": "linda",
+      "process_status": "failed",
+      "count": 4
+    },
+    {
+      "method": "linda",
+      "process_status": "ok",
+      "count": 86
+    },
+    {
+      "method": "maaslin2",
+      "process_status": "ok",
+      "count": 90
+    }
+  ],
+  "overall": {
+    "predictions": 3600.0,
+    "tare_mae": 0.0789804140439578,
+    "baseline_mae": 0.0947917991173434,
+    "coverage": 0.9544444444444444,
+    "auroc_reliability": 0.9825288244567402,
+    "allow_count": 1786.0,
+    "allow_precision": 0.9832026875699889,
+    "allow_coverage": 0.4961111111111111
+  },
+  "model_file_sha256": "95b51f36c4fb383ef96edb7e82ebaeeb6ec6565711a3c1ad7b4623a8a55024ab",
+  "external": {
+    "projects": [
+      "PRJDB13616",
+      "PRJEB104640",
+      "PRJEB76879",
+      "PRJNA1044052",
+      "PRJNA1062967",
+      "PRJNA1095845"
+    ],
+    "development_overlap": [],
+    "overall": {
+      "projects": 6.0,
+      "samples": 426.0,
+      "predictions": 48.0,
+      "tare_mae": 0.1414218131242612,
+      "development_prior_mae": 0.185261241699625,
+      "mae_improvement": 0.0438394285753638,
+      "coverage": 0.8541666666666666,
+      "strong_effect_auroc": 0.837037037037037,
+      "allow_count": 24.0,
+      "allow_precision": 1.0,
+      "allow_coverage": 0.5,
+      "mean_support": 0.0624640352583704,
+      "outside_q95_fraction": 1.0
+    }
+  }
+}

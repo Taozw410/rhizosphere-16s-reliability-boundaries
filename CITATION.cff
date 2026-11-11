@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: If you use this benchmark, cite the associated article and repository release.
-title: Reproducibility, synthetic accuracy and cross-project transportability identify distinct reliability boundaries in multi-study rhizosphere 16S analyses
+message: If you use this model or benchmark, cite the associated article and repository release.
+title: A transportability-aware reliability envelope for project-specific differential-abundance analysis of multi-study rhizosphere 16S rRNA gene sequencing data
 authors:
   - family-names: Tao
     given-names: Ziwei
@@ -13,11 +13,12 @@ authors:
     given-names: Fan
     affiliation: Zhejiang University of Water Resources and Electric Power
 year: 2026
-date-released: 2026-11-01
-version: 0.1.1
+date-released: 2026-11-12
+version: 0.2.0
 keywords:
   - rhizosphere microbiome
-  - 16S rRNA
-  - reproducibility
+  - 16S rRNA gene sequencing
+  - conformal prediction
   - transportability
-  - benchmark
+  - differential abundance
+  - reliability envelope

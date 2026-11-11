@@ -1,0 +1,13 @@
+project,crop,scenario,requested_absolute_log2_effect,n_targets,n_samples,n_features,input_dir,seed
+PRJDB13616,rice,no_effect,0.0,0,60,120,tare/artifacts/external_panel/da_corpus/PRJDB13616/no_effect,24000
+PRJDB13616,rice,sparse20_fc2,1.0,20,60,120,tare/artifacts/external_panel/da_corpus/PRJDB13616/sparse20_fc2,24001
+PRJEB104640,maize,no_effect,0.0,0,177,120,tare/artifacts/external_panel/da_corpus/PRJEB104640/no_effect,24100
+PRJEB104640,maize,sparse20_fc2,1.0,20,177,120,tare/artifacts/external_panel/da_corpus/PRJEB104640/sparse20_fc2,24101
+PRJEB76879,wheat,no_effect,0.0,0,108,120,tare/artifacts/external_panel/da_corpus/PRJEB76879/no_effect,24200
+PRJEB76879,wheat,sparse20_fc2,1.0,20,108,120,tare/artifacts/external_panel/da_corpus/PRJEB76879/sparse20_fc2,24201
+PRJNA1044052,rice,no_effect,0.0,0,15,120,tare/artifacts/external_panel/da_corpus/PRJNA1044052/no_effect,24300
+PRJNA1044052,rice,sparse20_fc2,1.0,20,15,120,tare/artifacts/external_panel/da_corpus/PRJNA1044052/sparse20_fc2,24301
+PRJNA1062967,maize,no_effect,0.0,0,12,120,tare/artifacts/external_panel/da_corpus/PRJNA1062967/no_effect,24400
+PRJNA1062967,maize,sparse20_fc2,1.0,20,12,120,tare/artifacts/external_panel/da_corpus/PRJNA1062967/sparse20_fc2,24401
+PRJNA1095845,wheat,no_effect,0.0,0,54,120,tare/artifacts/external_panel/da_corpus/PRJNA1095845/no_effect,24500
+PRJNA1095845,wheat,sparse20_fc2,1.0,20,54,120,tare/artifacts/external_panel/da_corpus/PRJNA1095845/sparse20_fc2,24501

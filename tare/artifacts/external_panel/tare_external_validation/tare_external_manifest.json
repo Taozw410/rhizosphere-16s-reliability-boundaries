@@ -1,0 +1,23 @@
+{
+  "model_used": "D://CodexWork//mic-re//tare//artifacts//tare_da//tare_da_final_model.joblib",
+  "model_sha256": "95b51f36c4fb383ef96edb7e82ebaeeb6ec6565711a3c1ad7b4623a8a55024ab",
+  "retrained_on_external": false,
+  "external_projects": [
+    "PRJDB13616",
+    "PRJEB104640",
+    "PRJEB76879",
+    "PRJNA1044052",
+    "PRJNA1062967",
+    "PRJNA1095845"
+  ],
+  "external_crops": {
+    "maize": 2,
+    "rice": 2,
+    "wheat": 2
+  },
+  "external_samples": 426,
+  "predictions": 48,
+  "support_scale_q95": 2.0,
+  "conformal_radius": 0.313147118912476,
+  "protocol": "TARE_EXTERNAL_PANEL_PROTOCOL.md"
+}

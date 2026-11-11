@@ -1,0 +1,8 @@
+[
+  {
+    "input_dir": "D://CodexWork//mic-re//tare//artifacts//external_panel//da_corpus//PRJEB104640//no_effect",
+    "status": "process_failed",
+    "returncode": 3,
+    "stderr": "The process cannot access the file because it is being used by another process./nThe system cannot find the file C://Users//hthome//AppData//Local//Temp//__conda_tmp_1919.txt./n/nERROR conda.cli.main_run:execute(127): `conda run Rscript D://CodexWork//mic-re//tare//p4_tare_batch_runner.R D://CodexWork//mic-re//tare//artifacts//external_panel//da_corpus//PRJEB104640//no_effect D://CodexWork//mic-re//tare//artifacts//external_panel//da_method_results//PRJEB104640//no_effect 24100 no_effect` failed. (See above for error)/n"
+  }
+]

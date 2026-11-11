@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A4b,True,1.0,1.605187862462144
+sparse20_fc2,f__Anaerolineaceae,True,-1.0,-1.1803964240894977
+sparse20_fc2,f__BIrii41,True,1.0,2.0889775490455826
+sparse20_fc2,f__Comamonadaceae,True,-1.0,-0.8570812252770823
+sparse20_fc2,f__Nitrososphaeraceae,True,1.0,0.0
+sparse20_fc2,f__Roseiflexaceae,True,-1.0,-1.2053064388256478
+sparse20_fc2,f__Xanthobacteraceae,True,1.0,0.7715162104510785
+sparse20_fc2,g__ADurb.Bin063-1,True,-1.0,-2.9693916136061183
+sparse20_fc2,g__Arenimonas,True,1.0,1.9023521681677782
+sparse20_fc2,g__Candidatus Solibacter,True,-1.0,-1.1781772868340892
+sparse20_fc2,g__Cellvibrio,True,1.0,0.0
+sparse20_fc2,g__Edaphobaculum,True,-1.0,0.0
+sparse20_fc2,g__Luteolibacter,True,1.0,-1.6355870191976944
+sparse20_fc2,g__Marmoricola,True,-1.0,-1.1781921651448406
+sparse20_fc2,g__Microvirga,True,1.0,0.5042457634372893
+sparse20_fc2,g__Mycobacterium,True,-1.0,-0.8559768478038147
+sparse20_fc2,g__Ohtaekwangia,True,1.0,3.664949697274169
+sparse20_fc2,g__Rhodanobacter,True,-1.0,-1.2736913753045236
+sparse20_fc2,g__Solirubrobacter,True,1.0,0.5827798487351084
+sparse20_fc2,g__Sphingomonas,True,-1.0,-1.0510222962200113

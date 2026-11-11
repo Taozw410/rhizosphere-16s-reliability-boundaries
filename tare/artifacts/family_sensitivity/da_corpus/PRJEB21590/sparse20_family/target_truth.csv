@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_family,f__Xanthobacteraceae,True,1.0,0.9023276831329723
+sparse20_family,f__SC-I-84,True,-1.0,-1.2934674781570865
+sparse20_family,f__Myxococcaceae,True,1.0,1.0884720523538323
+sparse20_family,f__Roseiflexaceae,True,-1.0,-0.9535216948374922
+sparse20_family,f__Gemmataceae,True,1.0,0.5026706010006058
+sparse20_family,f__Rhizobiaceae,True,-1.0,-0.54715362981502
+sparse20_family,f__A21b,True,1.0,0.8016476806944576
+sparse20_family,f__Devosiaceae,True,-1.0,-1.0472777420173722
+sparse20_family,f__Rhizobiales Incertae Sedis,True,1.0,1.0424926725425272
+sparse20_family,f__KF-JG30-B3,True,-1.0,-0.9713591509183988
+sparse20_family,f__Verrucomicrobiaceae,True,1.0,0.8620253660083196
+sparse20_family,f__Vermiphilaceae,True,-1.0,-0.5996927246430026
+sparse20_family,f__Rhodocyclaceae,True,1.0,2.144257223429027
+sparse20_family,f__Latescibacteraceae,True,-1.0,-1.1338451664681208
+sparse20_family,f__SM2D12,True,1.0,1.253466281525728
+sparse20_family,f__Sphingobacteriaceae,True,-1.0,-0.9056422094283213
+sparse20_family,f__Entotheonellaceae,True,1.0,1.176934619095553
+sparse20_family,f__KI89A clade,True,-1.0,-1.2055589883789553
+sparse20_family,f__Holosporaceae,True,1.0,0.7218961466347035
+sparse20_family,f__Unknown Family,True,-1.0,-1.3068654369945394

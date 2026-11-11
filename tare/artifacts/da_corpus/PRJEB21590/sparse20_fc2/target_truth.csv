@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__67-14,True,1.0,1.0518850130449553
+sparse20_fc2,f__A21b,True,-1.0,-1.5951956042648947
+sparse20_fc2,f__A4b,True,1.0,1.0902458792894532
+sparse20_fc2,f__Anaerolineaceae,True,-1.0,-2.8642761025363357
+sparse20_fc2,f__Gemmatimonadaceae,True,1.0,0.5484401147056209
+sparse20_fc2,f__JG30-KF-CM45,True,-1.0,-15.988901791810504
+sparse20_fc2,f__Rhizobiaceae,True,1.0,1.8760091349874017
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,-1.036109476320471
+sparse20_fc2,f__Steroidobacteraceae,True,1.0,0.6232031107680868
+sparse20_fc2,f__Xanthobacteraceae,True,-1.0,-1.2441988067787255
+sparse20_fc2,g__Acidibacter,True,1.0,1.0580950301386314
+sparse20_fc2,g__Aquicella,True,-1.0,-0.8255654309610275
+sparse20_fc2,g__Candidatus Udaeobacter,True,1.0,0.4322241597303763
+sparse20_fc2,g__Caulobacter,True,-1.0,-0.8903016058980905
+sparse20_fc2,g__Cellvibrio,True,1.0,-0.3546082938858367
+sparse20_fc2,g__Conexibacter,True,-1.0,-0.8468431047542111
+sparse20_fc2,g__Haliangium,True,1.0,1.2642316266752411
+sparse20_fc2,g__Iamia,True,-1.0,-1.7766496934496308
+sparse20_fc2,g__Novosphingobium,True,1.0,0.49880491761186707
+sparse20_fc2,g__Opitutus,True,-1.0,-1.3796918818842847

@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__A4b,True,1.0,0.0
+sparse20_fc2,f__BIrii41,True,-1.0,0.0
+sparse20_fc2,f__Comamonadaceae,True,1.0,0.5779629062068546
+sparse20_fc2,f__Gemmataceae,True,-1.0,-16.38582246039319
+sparse20_fc2,f__Longimicrobiaceae,True,1.0,0.9098811855343688
+sparse20_fc2,f__Myxococcaceae,True,-1.0,0.6096785985376109
+sparse20_fc2,f__Rhodocyclaceae,True,1.0,-1.498973079448399
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,-0.5549517550579277
+sparse20_fc2,f__Xanthobacteraceae,True,1.0,0.19398987958542627
+sparse20_fc2,g__Acidibacter,True,-1.0,-1.451733753537289
+sparse20_fc2,g__Bacillus,True,1.0,1.23156618737969
+sparse20_fc2,g__Bradyrhizobium,True,-1.0,-1.365291992290043
+sparse20_fc2,g__Brevundimonas,True,1.0,0.0
+sparse20_fc2,g__Bryobacter,True,-1.0,-1.398206077344265
+sparse20_fc2,g__Cellvibrio,True,1.0,0.0
+sparse20_fc2,g__Clostridium sensu stricto 1,True,-1.0,-1.2568111628985876
+sparse20_fc2,g__Dongia,True,1.0,0.0
+sparse20_fc2,g__Paenibacillus,True,-1.0,-0.2699512755638803
+sparse20_fc2,g__Pseudolabrys,True,1.0,3.072046636537078
+sparse20_fc2,g__mle1-7,True,-1.0,0.0

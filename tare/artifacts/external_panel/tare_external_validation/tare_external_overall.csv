@@ -1,0 +1,2 @@
+projects,samples,predictions,tare_mae,development_prior_mae,mae_improvement,coverage,strong_effect_auroc,allow_count,allow_precision,allow_coverage,mean_support,outside_q95_fraction
+6,426,48,0.14142181312426122,0.18526124169962502,0.0438394285753638,0.8541666666666666,0.837037037037037,24,1.0,0.5,0.06246403525837041,1.0

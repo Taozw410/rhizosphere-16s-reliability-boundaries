@@ -1,0 +1,13 @@
+* text=auto
+
+tare/** text eol=lf
+manuscript_v2/** text eol=lf
+data/tare_inputs/*.csv text eol=lf
+data/tare_inputs/*.json text eol=lf
+
+*.docx binary
+*.pdf binary
+*.png binary
+*.joblib binary
+*.xlsx binary
+*.svg text eol=lf

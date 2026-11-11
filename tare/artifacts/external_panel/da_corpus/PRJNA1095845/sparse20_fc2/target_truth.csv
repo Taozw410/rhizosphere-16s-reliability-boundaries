@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__Anaerolineaceae,True,1.0,1.6685270866777955
+sparse20_fc2,f__Diplorickettsiaceae,True,-1.0,-1.1549514718788678
+sparse20_fc2,f__Gemmataceae,True,1.0,1.5414334098926716
+sparse20_fc2,f__Micromonosporaceae,True,-1.0,-0.9938465963002348
+sparse20_fc2,f__Rhodanobacteraceae,True,1.0,0.935222384386896
+sparse20_fc2,f__Sandaracinaceae,True,-1.0,-0.5329216498983304
+sparse20_fc2,f__WD2101 soil group,True,1.0,2.2313153654080287
+sparse20_fc2,g__ADurb.Bin063-1,True,-1.0,-1.5450877984213625
+sparse20_fc2,g__Aquicella,True,1.0,1.3722235040433837
+sparse20_fc2,g__Candidatus Udaeobacter,True,-1.0,-0.6943547314756949
+sparse20_fc2,g__Conexibacter,True,1.0,1.1513885002795166
+sparse20_fc2,g__Marmoricola,True,-1.0,-0.8701950468378117
+sparse20_fc2,g__Niastella,True,1.0,1.0515390480896438
+sparse20_fc2,g__Noviherbaspirillum,True,-1.0,-1.3712683555325411
+sparse20_fc2,g__Novosphingobium,True,1.0,1.9651798920830374
+sparse20_fc2,g__Paenibacillus,True,-1.0,-0.8326044617913662
+sparse20_fc2,g__Roseomonas,True,1.0,0.6188057163966444
+sparse20_fc2,g__Sumerlaea,True,-1.0,-1.124910788062636
+sparse20_fc2,g__Tumebacillus,True,1.0,1.5433263622407636
+sparse20_fc2,g__mle1-7,True,-1.0,-0.9744028329358937

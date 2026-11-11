@@ -1,0 +1,21 @@
+scenario,feature,is_target,requested_log2_effect,expected_log2_effect_after_renormalization
+sparse20_fc2,f__67-14,True,1.0,1.1355047187111589
+sparse20_fc2,f__BIrii41,True,-1.0,-1.0049875602394776
+sparse20_fc2,f__Comamonadaceae,True,1.0,0.8379793753576111
+sparse20_fc2,f__Gemmataceae,True,-1.0,-0.994754279987685
+sparse20_fc2,f__JG30-KF-CM45,True,1.0,0.74756632201124
+sparse20_fc2,f__Nitrososphaeraceae,True,-1.0,-1.5980866985702602
+sparse20_fc2,f__Oxalobacteraceae,True,1.0,0.708582203708759
+sparse20_fc2,f__Pedosphaeraceae,True,-1.0,-0.28818893145593766
+sparse20_fc2,f__Roseiflexaceae,True,1.0,0.9653847801588246
+sparse20_fc2,f__Sphingomonadaceae,True,-1.0,-3.4363926638786393
+sparse20_fc2,f__WD2101 soil group,True,1.0,0.78179966237049
+sparse20_fc2,f__Xanthomonadaceae,True,-1.0,-1.1653574828526312
+sparse20_fc2,g__Altererythrobacter,True,1.0,14.540786452166833
+sparse20_fc2,g__Chthoniobacter,True,-1.0,0.0
+sparse20_fc2,g__Conexibacter,True,1.0,0.7894785470203203
+sparse20_fc2,g__Edaphobaculum,True,-1.0,-1.2201907691575848
+sparse20_fc2,g__Ohtaekwangia,True,1.0,0.9436307997153088
+sparse20_fc2,g__RB41,True,-1.0,-2.0070233864059905
+sparse20_fc2,g__Reyranella,True,1.0,0.8198920724739959
+sparse20_fc2,g__Subgroup 10,True,-1.0,-1.0263215101537537
